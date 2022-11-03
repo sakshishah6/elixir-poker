@@ -71,16 +71,3 @@ end
 allScores = List.flatten(allScores)
 scorePct = 100*Enum.sum(allScores) / length(allScores)
 IO.puts "\nTotal score: #{scorePct}%  (#{Enum.sum allScores}/#{length allScores} points)"
-
-
-
-
-
-
-
-
-
-
-
-
-
