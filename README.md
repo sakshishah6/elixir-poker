@@ -12,6 +12,10 @@ This is an automated poker game created in Elixir.
 
 To start the game, run `elixir Poker.ex` in your terminal.
 
-## Description of Game
+## Description
 
-- Accepts a set of hands and calculates the winning hand.
+Accepts a set of hands and calculates the winning hand.
+
+## Testing
+
+To run any of the test files, run `elixir [testFileName].exs` in your terminal.
